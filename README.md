@@ -2,6 +2,6 @@
 
 Mon fichier text pour répondre à la première activité sur le MOOC de Git sur OpenClassrooms.
 
-Bonne lecture!
+Merci pour la correction!
 
-Et voici ma première modification, merci pour la correction!
+

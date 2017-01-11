@@ -35,7 +35,7 @@ catch(Exception $e){
 <html>
 
     <head>
-        <meta charset="utf-8" name="Tom" content="chat" />
+        <meta charset="utf-8" name="Tom" content="chat-RIP MSN" />
         <title>chat!</title>
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <link href="/chat/chat.css" rel="stylesheet" >       
