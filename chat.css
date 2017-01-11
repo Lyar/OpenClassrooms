@@ -1,0 +1,53 @@
+.conteneur, .nom, .prenom{
+
+	display:flex;
+
+}
+
+.nom, .prenom, .commentaire{
+	margin-left: 10px;
+}
+
+.nom, .prenom{
+
+  font-weight: bold;
+}
+
+.conteneur{
+
+	margin-top: 15px;
+}
+
+.envoyer{
+
+	margin-top: 20px;
+	margin-left: 10%;
+}
+
+.container{
+	margin-top: 8%;
+}
+
+h1{
+
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 20px;
+	color: rgb(73,77,138);
+
+}
+
+label{
+
+	width:8%;
+}
+
+.commentaire{
+
+	width:20%;
+
+}
+
+.mail{
+	width:20%;
+}
